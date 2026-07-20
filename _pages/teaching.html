@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
@@ -13,8 +12,13 @@ passionate about [whatever genuinely matters to you here].
 
 Below are the courses I've taught, along with student projects from each.
 
-{% include base_path %}
+
+**Courses:**
 
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  <p>
+    <strong>{{ post.date | date: "%Y" }}</strong> —
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </p>
 {% endfor %}
+
