@@ -1,5 +1,5 @@
 ---
-title: "Student Projects — HCI II"
+title: "Student's Course Project"
 permalink: /teaching/2026-spring-cafa-2-students/
 layout: single
 author_profile: false
@@ -8,7 +8,7 @@ author_profile: false
 [← Back to course page](/teaching/2026-spring-cafa-2)
 
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
-Sophomore · d.School · China Central Academy of Fine Arts
+HCI'26, Spring · 二年级，设计学院 
 </p>
 
 ### Featured projects
