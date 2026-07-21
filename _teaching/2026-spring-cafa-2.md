@@ -41,7 +41,7 @@ HCI'26, Spring · 二年级，设计学院
 
   <div style="text-align: center;">
     <a href="https://youtu.be/vXhP9i1WlsA" target="_blank">
-      <img src="/images/%E9%92%B1%E8%AF%91%E6%A5%A0.png"
+      <img src="/images/qianyinan.png" ...>
            style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
     </a>
     <p style="font-weight: 500; margin: 10px 0 0;">PuzzleDays</p>
