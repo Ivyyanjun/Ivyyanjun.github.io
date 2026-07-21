@@ -1,5 +1,5 @@
 ---
-title: "Student Projects — Human-Computer Interaction II"
+title: "Student Projects — HCI II"
 permalink: /teaching/2026-spring-cafa-2-students/
 layout: single
 author_profile: false
@@ -8,7 +8,7 @@ author_profile: false
 [← Back to course page](/teaching/2026-spring-cafa-2)
 
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
-Sophomore cohort · d.School · China Central Academy of Fine Arts
+Sophomore · d.School · China Central Academy of Fine Arts
 </p>
 
 ### Featured projects
