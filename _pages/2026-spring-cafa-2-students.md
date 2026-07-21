@@ -13,38 +13,38 @@ HCI'26, Spring · 二年级，设计学院
 
 ### Featured projects
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; margin-top: 12px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
 
   <div style="text-align: center;">
     <a href="https://youtu.be/yT3fitUxFGY" target="_blank">
       <img src="/images/IMG_1719.jpg"
-           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
-    <p style="font-weight: 500; margin: 10px 0 0;">BraveBee Care</p>
+    <p style="font-size: 13px; margin: 6px 0 0;">BraveBee Care</p>
   </div>
 
   <div style="text-align: center;">
     <a href="https://youtu.be/K8aHCVEs-xg" target="_blank">
       <img src="/images/%E5%BC%A0%E9%9C%B2%E6%81%BA.png"
-           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
-    <p style="font-weight: 500; margin: 10px 0 0;">Mixscape</p>
+    <p style="font-size: 13px; margin: 6px 0 0;">Mixscape</p>
   </div>
 
   <div style="text-align: center;">
     <a href="https://youtu.be/DhSkA7fOULQ" target="_blank">
       <img src="/images/wenliang.png"
-           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
-    <p style="font-weight: 500; margin: 10px 0 0;">Re-coding Cheers</p>
+    <p style="font-size: 13px; margin: 6px 0 0;">Re-coding Cheers</p>
   </div>
 
- <div style="text-align: center;">
+  <div style="text-align: center;">
     <a href="https://youtu.be/vXhP9i1WlsA" target="_blank">
       <img src="/images/qianyinan.png"
-           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 12px;">
+           style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
-    <p style="font-weight: 500; margin: 10px 0 0;">PuzzleDays</p>
+    <p style="font-size: 13px; margin: 6px 0 0;">PuzzleDays</p>
   </div>
 
 </div>
