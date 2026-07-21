@@ -10,6 +10,27 @@ status: past
 slides: /files/hci-2-slides.pdf
 ---
 
-Human-Computer Interaction II — Sophomore (二年级), d.School, CAFA.
 
-[View Student Projects →](/teaching/2026-spring-cafa-2-students/)
+Human-Computer Interaction II — Sophomore (二年级), d.School, CAFA. [Student Projects →](/teaching/2026-spring-cafa-2-students/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[← Back to course list](/teaching/)    
