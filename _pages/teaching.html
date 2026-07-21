@@ -1,18 +1,28 @@
 ---
-title: "Teaching"
+title: "Teaching Courses list"
 permalink: /teaching/
 author_profile: true
 ---
 
-Below are the courses I've taught, along with student projects from each. 
-
-
-**Courses:**
-
-{% for post in site.teaching reversed %}
+{% assign past_courses = site.teaching | where: "status", "past" | sort: "date" | reverse %}
+{% for post in past_courses %}
   <p>
     <strong>{{ post.date | date: "%Y" }}</strong> —
     <a href="{{ post.url }}">{{ post.title }}</a>
+    {% if post.slides %} · <a href="{{ post.slides }}">Slides</a>{% endif %}
   </p>
 {% endfor %}
 
+## Incoming courses
+
+{% assign upcoming_courses = site.teaching | where: "status", "upcoming" | sort: "date" %}
+{% if upcoming_courses.size > 0 %}
+  {% for post in upcoming_courses %}
+    <p>
+      <strong>{{ post.date | date: "%Y" }}</strong> —
+      {{ post.title }}
+    </p>
+  {% endfor %}
+{% else %}
+  <p style="color: #666;">No upcoming courses scheduled yet.</p>
+{% endif %}
