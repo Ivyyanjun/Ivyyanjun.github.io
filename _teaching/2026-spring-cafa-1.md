@@ -8,6 +8,7 @@ date: 2026-5-22
 location: "Beijing, China"
 status: past
 slides: /files/hci-1-slides.pdf
+students_url: /teaching/2026-spring-cafa-1-students/
 ---
 
 Human-Computer Interaction I — Freshman (一年级), d.School, CAFA.
