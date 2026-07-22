@@ -111,9 +111,9 @@ HCI'26, Spring · 二年级，设计学院
     </a>
     <p style="font-size: 13px; margin: 6px 0 0;">数据视觉/静脉曲张</p>
   </div>
-  <div style="text-align: center;">
+ <div style="text-align: center;">
     <a href="https://youtu.be/dRB-kJ1pEr4" target="_blank">
-      <img src="/images/%E5%90%B4%E9%9D%92%E6%81%A5.png"
+      <img src="/images/%E5%90%B4%E9%9D%92%E6%81%AC.png"
            style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
     <p style="font-size: 13px; margin: 6px 0 0;">手势交互</p>
