@@ -6,8 +6,7 @@ author_profile: false
 ---
 
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
-HCI'26, Spring · 二年级，设计学院 
-Course outcomes：This is an intensive 4-weeks course, introduing human-centered design methods including RtD (Research through Design); prototyping methods, and introduced an Google MediaPipe integrated to P5.js. 
+Course outcomes：All students submitted a 3min demo video showing prototyping, a paper report and their final slides showing the entire HCD process. 
 </p>
 ### Featured projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
