@@ -8,3 +8,4 @@ status: past
 slides: /files/hci-2-slides.pdf
 ---
 
+[Student Projects →](/teaching/2026-spring-cafa-2-students/)
