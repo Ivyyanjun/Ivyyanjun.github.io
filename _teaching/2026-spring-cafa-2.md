@@ -6,6 +6,5 @@ date: 2026-04-27
 location: "Beijing, China"
 status: past
 slides: /files/hci-2-slides.pdf
+students_url: /teaching/2026-spring-cafa-2-students/
 ---
-
-[Student Projects →](/teaching/2026-spring-cafa-2-students/)
