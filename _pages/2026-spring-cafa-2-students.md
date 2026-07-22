@@ -43,7 +43,7 @@ HCI'26, Spring · 二年级，设计学院
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
    <div style="text-align: center;">
     <a href="https://youtu.be/bJl_vEIeFxM" target="_blank">
-      <img src="/images/SoftFilter_A3_Poster_Clean_Corrected_NoAuthor_RGB.jpg"
+      <img src="/images/lan.png"
            style="width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 8px;">
     </a>
     <p style="font-size: 13px; margin: 6px 0 0;">SoftFilter</p>
