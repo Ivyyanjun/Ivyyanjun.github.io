@@ -6,7 +6,11 @@ author_profile: false
 ---
 
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
-Course outcomes：All students submitted a 3min demo video showing prototyping, a paper report and their final slides showing the entire HCD process. 
+课程介绍
+本课程为《人机交互设计导论》的进阶课程，聚焦具身交互设计（Embodied Interaction Design）——即人的认知不仅发生在大脑中，也通过身体与环境的交互实现。课程引导学生跳出传统屏幕与键鼠的交互范式，探索身体作为交互媒介的新可能。课程结合具身认知（Embodied Cognition）理论与具身 XR、认知发展教育、眼动追踪与专注力培养、医疗康复等跨领域案例，帮助学生理解 HCI 研究与真实世界问题的交叉点。技术上，课程引入 Google MediaPipe 框架，通过摄像头获取身体姿态、手势与面部表情数据，作为具身交互原型设计的基础。学生通过三个递进式项目，完成从理论研究到原型实现的具身交互设计方案。
+
+邀请讲座嘉宾
+Heng Zhang（HKUST 香港科技大学，机器人方向，博士后）；Yuying Tang（HKUST 香港科技大学，人机交互影像方向，博士）
 </p>
 ### Featured projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
