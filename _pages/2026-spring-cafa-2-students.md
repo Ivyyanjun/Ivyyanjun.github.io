@@ -1,5 +1,5 @@
 ---
-title: "Student's Course Project"
+title: "二年级学生作业"
 permalink: /teaching/2026-spring-cafa-2-students/
 layout: single
 author_profile: false
