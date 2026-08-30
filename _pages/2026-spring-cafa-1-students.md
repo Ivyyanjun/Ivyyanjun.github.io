@@ -7,6 +7,9 @@ author_profile: false
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
 HCI'26, Spring · Undergraduate-level，一年级，设计学院
 Course outcomes：理解 HCI 的基本概念、发展历史与设计原则，建立以人为中心的设计方法论基础，形成对人与技术关系的批判性认知框架；学会观察、访谈、共情等基本设计方法，能够发现并清晰定义真实用户需求；能用手绘故事板与 Figma 完成从低保真纸板原型到可交互数字原型的制作；能通过启发式评估和可用性测试评估设计方案，并基于用户反馈进行有依据的迭代优化；能清晰展示完整的设计思维过程，进行有效的设计沟通与汇报。
+
+邀请讲座嘉宾： DingDong Liu (HKUST 香港科技大学，HCI-机器人方向 博士)
+Ruofan Xu （PolyU，香港理工大学，脑与智能学院，博士后）
 </p>
 ### Featured projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
