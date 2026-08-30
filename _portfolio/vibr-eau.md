@@ -1,6 +1,6 @@
 ---
 title: "Vibr-eau"
-excerpt: "利用振动触觉致动器模拟虚拟流体的触感体验，为 VR 环境中的容器交互提供逼真的流体触感反馈。<br/><img src='http://static1.squarespace.com/static/65356c9de415a50ba2282ba9/655c65d73cb3ed031922e951/658f7b7e203a71429e502e39/1725532951625/vibreauinside.jpg?format=1500w'>"
+excerpt: "利用振动触觉致动器模拟虚拟流体的触感体验，为 VR 环境中的容器交互提供逼真的流体触感反馈。<br/><img src='http://static1.squarespace.com/static/65356c9de415a50ba2282ba9/655c65d73cb3ed031922e951/658f7b7e203a71429e502e39/1725532951625/vibreauinside.jpg?format=1500w' style='max-width:100%; max-height:280px; object-fit:cover; border-radius:8px;'>"
 collection: portfolio
 ---
 

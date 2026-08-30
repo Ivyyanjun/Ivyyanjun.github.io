@@ -1,0 +1,15 @@
+---
+title: "Mated Objects"
+excerpt: "早期技术研究，通过声音与视觉反馈的计算增强器物，探索增强媒介如何塑造协调性社交游戏。<br/><img src='http://static1.squarespace.com/static/65356c9de415a50ba2282ba9/655c65d73cb3ed031922e951/655c65d73cb3ed031922e9de/1725535030099/telematic+object.png?format=1500w' style='max-width:100%; max-height:280px; object-fit:cover; border-radius:8px;'>"
+collection: portfolio
+---
+
+这是一系列早期技术研究，聚焦增强媒介如何塑造具有协调性的社交游戏。研究通过一系列引导式场景，使用兼具声音与视觉反馈的计算增强实体器物开展实验。设计思路借鉴了"感知引导的感觉运动方式"（Gibson, 1979），即从生态心理学视角理解感知与行动的关系。实验结果呈现积极趋势，表明这种方式能让参与者在随意的社交情境中自发建立有意义的互动，促进相互熟悉与协调意识的形成。
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; margin: 1rem 0;">
+  <iframe src="https://player.vimeo.com/video/362645645" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+项目包含两个主要构想：其一是通过在多用户情境中营造富有诗意的视觉响应来增强社交关系；其二是通过与旋转、碰杯、倾斜、摇晃等一系列手势相关联的听觉反馈，探索具身社交游戏。系统采用 Neopixel 灯带、导电胶带、红外 LED、ESP-8266FX 开发板、锂电池及定制电路板，力求还原真实香槟杯的尺寸与手感；通过导电胶带与顶置摄像头采集数据，经串口通信传输至 Max/MSP 处理，生成视觉涟漪效果。
+
+[查看详细资料（PDF）](https://www.yanjunlyu.net/s/name_893.pdf)
