@@ -14,3 +14,52 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<!-- Google Translate: one-click auto translate (Chinese <-> English) -->
+<style>
+  /* Hide Google's default translate toolbar/banner and widget dropdown */
+  .goog-te-banner-frame.skiptranslate { display: none !important; }
+  body { top: 0px !important; }
+  #google_translate_element { display: none !important; }
+  .goog-te-gadget { display: none !important; }
+  .lang-toggle-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font: inherit;
+    padding: 0 4px;
+  }
+  .lang-toggle-btn.active {
+    font-weight: bold;
+    text-decoration: underline;
+  }
+</style>
+<script>
+  function gtSetCookie(name, value) {
+    var domain = window.location.hostname;
+    document.cookie = name + "=" + value + "; path=/";
+    document.cookie = name + "=" + value + "; path=/; domain=." + domain;
+  }
+  function gtClearCookie(name) {
+    var domain = window.location.hostname;
+    document.cookie = name + "=; path=/; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+    document.cookie = name + "=; path=/; domain=." + domain + "; expires=Thu, 01 Jan 1970 00:00:00 GMT";
+  }
+  function translateTo(targetLang) {
+    // if already showing this language, clicking again reverts to original
+    if (document.cookie.indexOf('googtrans=/zh-CN/' + targetLang) !== -1) {
+      gtClearCookie('googtrans');
+    } else {
+      gtSetCookie('googtrans', '/zh-CN/' + targetLang);
+    }
+    location.reload();
+  }
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement(
+      { pageLanguage: 'zh-CN', includedLanguages: 'en', autoDisplay: false },
+      'google_translate_element'
+    );
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" async></script>
+
