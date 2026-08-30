@@ -1,3 +1,6 @@
+classes:
+  - cv-page-layout
+
 ---
 layout: archive
 title: "个人简历"
