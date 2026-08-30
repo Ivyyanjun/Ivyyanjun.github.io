@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "个人简历"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,93 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* Ph.D. in Media Arts and Science, School of Arts, Media and Engineering, Arizona State University, 2018 – 2024
-  * Advisors: Sha Xin Wei, Lauren Sarah Hayes, Robert Karimi
-* Exchange Student, Media Arts and Science, MIT Media Lab — Tangible Media Group, 2015 – 2016
-* M.A. in Media Arts and Technology, Dynamic Media Institute, Massachusetts College of Art and Design (MassArt), 2014 – 2016
-* B.A. in Visual Communication, Design School (Studio 11), Central Academy of Fine Arts (CAFA), Beijing, China, 2010 – 2014
+* 媒体艺术与科学博士，亚利桑那州立大学艺术、媒体与工程学院，2018–2024
+  * 导师：Sha Xin Wei、Lauren Sarah Hayes、Robert Karimi
+* 媒体艺术与科学交换生，麻省理工学院媒体实验室——有形媒体研究组，2015–2016
+* 媒体艺术与技术硕士，麻省艺术与设计学院（MassArt）动态媒体研究所，2014–2016
+* 视觉传达学士，中央美术学院设计学院（第十一工作室），中国北京，2010–2014
 
-Work experience
+工作经历
 ======
-* July 2025 – July 2026: Postdoctoral Fellow
-  * HCI Initiative, School of Computer Science and Engineering, Hong Kong University of Science and Technology (HKUST)
-  * Led a project team designing and developing an AR/AI-powered restaurant chatbot interaction system, combining augmented reality and AI to optimize the multi-person ordering experience. Current work focuses on chatbot prototyping with voice-recognition support to improve the naturalness and efficiency of human–computer interaction.
+* 2025年7月–2026年5月：博士后研究员
+  * 香港科技大学计算机科学与工程学院人机交互研究计划（HCI Initiative）
+  * 带领项目团队设计并开发由增强现实与人工智能驱动的餐厅聊天机器人交互系统，通过结合 AR 与 AI 优化多人点餐体验。目前的工作重点是开发支持语音识别的聊天机器人原型，以提升人机交互的自然度与效率。
 
-* August 2024 – July 2025: Research Scientist
-  * Sanford Harmony Institute & College of Integrative Sciences and Arts, Arizona State University
-  * Designed and developed WaterSIMmersive, an embodied game funded by the U.S. National Science Foundation (Award #2314259; 2023–2028; $1,997,807.00), helping children learn about the geographic distribution of water resources, groundwater formation, evaporation, and other complex scientific processes, while fostering collaboration and healthy social-psychological development among children.
+* 2024年8月–2025年7月：研究科学员
+  * 亚利桑那州立大学 Sanford Harmony 研究所与综合科学及艺术学院
+  * 设计并开发具身游戏 WaterSIMmersive。该项目由美国国家科学基金会资助（项目编号 #2314259；2023–2028；资助金额 1,997,807.00 美元），帮助儿童学习水资源的地理分布、地下水形成、蒸发及其他复杂的科学过程，同时促进儿童之间的协作与健康的社会心理发展。
 
-* September 2018 – April 2024: Graduate Research Assistant
-  * Synthesis Center, Arizona State University
-  * Led the design of three responsive embodied games: (1) SensaSea, an immersive social game for preschool-age children; (2) an interactive multimodal dining environment; (3) a programmable, hearing-amplifying drinking glass. Combined qualitative user research with quantitative analysis, and led the full development cycle of each interactive system from concept to evaluation; results published in peer-reviewed journals and conferences.
-  * Collaborated with the Meteor Lab research team to develop a VR haptic interaction system exploring how fluid haptic feedback can be integrated into objects of varying shapes to simulate realistic virtual-fluid sensations across different containers, with applications for chemistry education. Related technology filed for patent (SkySong patent no. M25-054P-PR1-b).
+* 2018年9月–2024年4月：研究生研究助理
+  * 亚利桑那州立大学 Synthesis Center
+  * 主导设计了三款响应式具身游戏：（1）面向学龄前儿童的沉浸式社交游戏 SensaSea；（2）交互式多模态用餐环境；（3）可编程的听觉增强型饮水杯。将定性用户研究与定量分析相结合，并主导每个交互系统从概念设计到评估的完整开发周期；研究成果发表于同行评审期刊及学术会议。
+  * 与 Meteor Lab 研究团队合作开发虚拟现实触觉交互系统，探索如何将流体触觉反馈集成至不同形状的物体中，以模拟不同容器内逼真的虚拟流体感受，并应用于化学教育。相关技术已申请专利（SkySong 专利编号：M25-054P-PR1-b）。
 
-* Fall 2023 – Spring 2024 / January 2017 – July 2018: Teaching Assistant
-  * School of Arts, Media and Engineering, Arizona State University
-  * Assisted faculty with undergraduate instruction, including leading discussion sections, supporting student lab/experiment projects, and grading.
+* 2023年秋季–2024年春季 / 2017年1月–2018年7月：助教
+  * 亚利桑那州立大学艺术、媒体与工程学院
+  * 协助教师开展本科教学，包括主持讨论课、指导学生实验室及实验项目，以及课程评分。
 
-* User Experience Designer
-  * Proximity Lab, Oakland, California, U.S.
-  * Designed dynamic transition interfaces for a smart-home security client using Adobe XD and After Effects, producing high-quality mobile and tablet UI. Created narrative-driven motion layouts to showcase product features, and used CSS to build responsive iOS web experiences for mobile and tablet, ensuring a smooth user experience.
-
-Teaching experience
-======
-* Fall 2019 – Spring 2024: Teaching Assistant, School of Arts, Media and Engineering, Arizona State University
-  * AME 220 Programming for Media Arts
-  * AME 130 Prototyping Dreams
-  * AME 112 Computational Thinking
-  * AME 210 Media Editing
-  * AME 111 Introduction to Design Principles
+* 用户体验设计师
+  * Proximity Lab，美国加利福尼亚州奥克兰
+  * 使用 Adobe XD 和 After Effects 为一家智能家居安防客户设计动态过渡界面，制作高质量的移动端和平板端用户界面。创建叙事驱动的动态版式以展示产品功能，并使用 CSS 构建适配手机和平板设备的响应式 iOS 网页体验，确保流畅的用户体验。
 
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Skills
-======
-* Programming Languages
-  * C, C#, HTML & CSS, Python
-* Research & Analysis Tools
-  * Qualtrics, SPSS, Excel, Tableau, Datavyu, ATLAS.ti
-* Design & Prototyping Tools
-  * Figma, Framer, Sketch, Adobe Creative Suite (Photoshop, Illustrator, Premiere, etc.), Arduino, Xcode, Processing / p5.js, Max/MSP, Unity
-* Research & Design Methods
-  * A/B Testing, Benchmarking, Contextual Inquiry, Experiment Design, Focus Groups, Interviews, Observation, Participatory Design, Surveys, Usability Testing
-  * Prototyping (Low–High Fidelity), Persona Development, Storyboarding, Wireframing
-
-Publications
+出版物
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Talks
+演讲
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
 
-Professional & community service
+专业与社区服务
 ======
-* Reviewer, ACM ISS and HCII Conferences (2019, 2020, 2023)
-* Student Volunteer Chair, ACM TEI, HCII (2019, 2020)
-* Doctoral Symposium participant, Brain on Art; ACM ISS; Movement and Computing Conference (2019, 2023)
+* ACM ISS 与 HCII 学术会议审稿人（2019、2020、2023）
+* ACM TEI、HCII 学生志愿者主席（2019、2020）
+* Brain on Art、ACM ISS、Movement and Computing Conference 博士生论坛参与者（2019、2023）
 
-Fellowships, awards, and scholarships
+研究资助、奖项与奖学金
 ======
-* 2018 – 2024: Teaching and Research Assistantship, School of Arts, Media and Engineering & Synthesis Center, Arizona State University
-* 2024: Doctoral Outstanding Graduation Award, Arizona State University
-* 2021, 2022: Creative Constellation Grants, Arizona State University
-* 2020: University Graduate Fellowship, Arizona State University
-* 2020: GPSA Travel Grant, Arizona State University
-* 2013: Graduate Student Scholarship, Massachusetts College of Art and Design
-* 2013: Third Prize, School Project Competition, Central Academy of Fine Arts
+* 2018–2024：教学与研究助学金，亚利桑那州立大学艺术、媒体与工程学院及 Synthesis Center
+* 2024：优秀博士毕业奖，亚利桑那州立大学
+* 2021、2022：Creative Constellation 资助，亚利桑那州立大学
+* 2020：大学研究生奖学金，亚利桑那州立大学
+* 2020：研究生与专业学生协会（GPSA）差旅资助，亚利桑那州立大学
+* 2013：研究生奖学金，麻省艺术与设计学院
+* 2013：学院项目竞赛三等奖，中央美术学院
 
-References
+推荐人
 ======
-* Sha Xin Wei (Ph.D. Advisor) — Director and Professor, School of Arts, Media and Engineering, Arizona State University — Xinwei.Sha@asu.edu (or shaxinwei@gmail.com)
-* Lauren Sarah Hayes (Ph.D. Co-advisor) — Associate Professor, School of Arts, Media and Engineering, Arizona State University — lauren.s.hayes@asu.edu
-* Hiroshi Ishii (MFA Advisor) — Director, Tangible Media Group, MIT Media Laboratory — ishii@media.mit.edu
-* Ming Wang 王敏 (BFA Advisor) — Former Director and Professor, d.School, Central Academy of Fine Arts — wangmindesign@vip.sina.com
+* Sha Xin Wei（博士生导师）——亚利桑那州立大学艺术、媒体与工程学院原院长、教授——Xinwei.Sha@asu.edu（或 shaxinwei@gmail.com）
+* Lauren Sarah Hayes（博士生联合导师）——亚利桑那州立大学艺术、媒体与工程学院副教授——lauren.s.hayes@asu.edu
+* Hiroshi Ishii（艺术硕士导师）——麻省理工学院媒体实验室有形媒体研究组主任——ishii@media.mit.edu
+* Ming Wang 王敏（学士生导师）——中央美术学院设计学院原院长、教授——wangmindesign@vip.sina.com
