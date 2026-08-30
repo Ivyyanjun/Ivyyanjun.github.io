@@ -28,14 +28,14 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "人机交互研究者，专注具身互动、多模态设计与响应式媒体环境"
   location         : "Beijing, China and Bay area, USA"
-  employer         : "China Central Academy of Fine Arts"
+  employer         : "CAFA"
   uri              : # URL
   email            : "lyuyanjun@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # URL - removed for now
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : # URL - add your real ORCID link here, e.g. https://orcid.org/0000-0000-0000-0000
