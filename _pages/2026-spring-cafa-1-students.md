@@ -1,12 +1,12 @@
 ---
-title: "Student's Course Project"
+title: "一年级学生作业"
 permalink: /teaching/2026-spring-cafa-1-students/
 layout: single
 author_profile: false
 ---
 <p style="color: #666; font-size: 14px; margin: 1rem 0 0;">
 HCI'26, Spring · Undergraduate-level，一年级，设计学院
-Course outcomes：This is an intensive 4-weeks course, introduing human-centered design methods including RtD (Research through Design); prototyping methods, and introduced an Google MediaPipe integrated to P5.js. 
+Course outcomes：理解 HCI 的基本概念、发展历史与设计原则，建立以人为中心的设计方法论基础，形成对人与技术关系的批判性认知框架；学会观察、访谈、共情等基本设计方法，能够发现并清晰定义真实用户需求；能用手绘故事板与 Figma 完成从低保真纸板原型到可交互数字原型的制作；能通过启发式评估和可用性测试评估设计方案，并基于用户反馈进行有依据的迭代优化；能清晰展示完整的设计思维过程，进行有效的设计沟通与汇报。
 </p>
 ### Featured projects
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
@@ -24,6 +24,9 @@ Course outcomes：This is an intensive 4-weeks course, introduing human-centered
     </a>
     <p style="font-size: 13px; margin: 6px 0 0;">SafeStrap 安行肩带（甘粟源）</p>
   </div>
+</div>
+### All projects
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 14px; margin-top: 12px;">
   <div style="text-align: center;">
     <a href="https://youtu.be/oENzlBMD90Q" target="_blank">
       <img src="https://img.youtube.com/vi/oENzlBMD90Q/hqdefault.jpg"
