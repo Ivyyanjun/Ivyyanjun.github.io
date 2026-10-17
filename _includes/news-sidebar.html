@@ -1,0 +1,15 @@
+{% include base_path %}
+{% if site.data.news and site.data.news.size > 0 %}
+<div class="sidebar-news">
+  <h3 class="sidebar-news__title">News</h3>
+  <ul class="sidebar-news__list">
+    {% for item in site.data.news %}
+    <li class="sidebar-news__item">
+      <span class="sidebar-news__date">{{ item.date }}:</span>
+      {% if item.link %}{% if item.link contains "://" %}{% assign news_href = item.link %}{% else %}{% assign news_href = item.link | prepend: base_path %}{% endif %}<a href="{{ news_href }}">{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}</a>{% else %}{{ item.text | markdownify | remove: '<p>' | remove: '</p>' | strip }}{% endif %}{% if item.venue %} @ <strong>{{ item.venue }}</strong>{% endif %}
+      {% if item.note %}<br><em class="sidebar-news__note">{{ item.note }}</em>{% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>
+{% endif %}
