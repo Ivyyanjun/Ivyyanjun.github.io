@@ -1,0 +1,26 @@
+# Projects page data. Newest first.
+# Fields:
+#   title:     English title (required)
+#   title_zh:  Chinese title (optional)
+#   funder:    funding body, e.g. "NSFC - Young Scientists Fund" (optional)
+#   funder_link: URL for the funder (optional)
+#   team:      e.g. "Project Team (CAFA)" (optional)
+#   pi:        e.g. "LYU Yanjun (Lead)" (optional)
+#   role:      leading  OR  participating   (required, lowercase)
+#   years:     e.g. "2026 -" or "2022 - 2025" (optional)
+
+- title: "Example Leading Project Title (replace me)"
+  title_zh: "示例项目中文名称（请替换）"
+  funder: "Funding Agency Name"
+  team: "Project Team (CAFA)"
+  pi: "LYU Yanjun (Lead)"
+  role: leading
+  years: "2026 -"
+
+- title: "Example Participating Project Title (replace me)"
+  title_zh: "示例参与项目中文名称（请替换）"
+  funder: "Funding Agency Name"
+  team: "Project Team (HKUST)"
+  pi: "MA Xiaojuan (Lead)"
+  role: participating
+  years: "2024 - 2026"
