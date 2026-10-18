@@ -378,8 +378,17 @@
 
   &__date { font-weight: 600; }
 
-  &__note { color: var(--global-text-color-light); }
-}
+    &__note {
+    color: var(--global-text-color-light);
+
+    /* note 里用 <strong> 包起来的文字：黑色、正体、加粗，用来强调 */
+    strong {
+      color: var(--global-text-color);
+      font-style: normal;
+      font-weight: 700;
+    }
+  }
+
 
 
 
