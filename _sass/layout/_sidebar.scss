@@ -323,42 +323,54 @@
   }
 }
 
-
-
-
 /*
    Home page News box (below the author profile)
    ========================================================================== */
 
+/* 首页：隐藏头像下面的名字和简介文字（保留地址、学校、邮箱、GitHub） */
+.sidebar:has(.sidebar-news) .author__content {
+  display: none;
+}
+
+/* 去掉页面最底部的 Follow / Feed / 版权信息 */
+.page__footer {
+  display: none;
+}
+
 .sidebar-news {
   clear: both;
-  margin: 1.5em 0 2em;
-  padding: 0.9em 1em;
+  margin: 1.2em 0 2em;
+  padding: 0.8em 0 0.8em 0.9em;
   background-color: var(--global-footer-bg-color);
-  border: 1px solid var(--global-border-color);
-  border-radius: 6px;
+  border-radius: 4px;
   font-size: 0.78em;
   line-height: 1.45;
   color: var(--global-text-color);
 
   &__title {
-    margin: 0 0 0.6em;
-    font-size: 1.15em;
-    padding-bottom: 0.3em;
-    border-bottom: 1px solid var(--global-border-color);
+    margin: 0 0.9em 0.4em 0;
+    padding-bottom: 0.4em;
+    font-size: 1.1em;
+    border-bottom: 2px solid var(--global-dark-border-color);
   }
 
+  /* 可以上下滑动的新闻列表：超过 300px 就出现滚动条 */
   &__list {
     list-style: none;
     margin: 0;
-    padding: 0;
+    padding: 0 0.9em 0 0;
+    max-height: 300px;
+    overflow-y: auto;
+    scrollbar-width: thin;
   }
 
+  /* 每条新闻之间的横线 */
   &__item {
-    margin: 0 0 0.9em;
-    padding: 0;
+    margin: 0;
+    padding: 0.75em 0;
+    border-bottom: 1px solid var(--global-border-color);
 
-    &:last-child { margin-bottom: 0; }
+    &:last-child { border-bottom: none; }
 
     a { color: inherit; text-decoration: none; }
     a:hover { color: var(--global-link-color); text-decoration: underline; }
@@ -368,3 +380,7 @@
 
   &__note { color: var(--global-text-color-light); }
 }
+
+
+
+
