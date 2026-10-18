@@ -389,6 +389,17 @@
     }
   }
 
+   /* 首页正文：字体调小 */
+.sidebar:has(.sidebar-news) ~ .page .page__content {
+  font-size: 0.85em;
+  line-height: 1.6;
+
+  h2 {
+    font-size: 1.25em;
+    margin-top: 1.5em;
+  }
+}
+
 
 
 
