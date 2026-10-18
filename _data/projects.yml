@@ -16,12 +16,12 @@
 - title: "Conversational Chatbot Design for Hong Kong Restaurants"
   title_zh: "香港餐厅对话式 Chatbot 设计"
   team: "Project Team (HKUST)"
-  pi: "LYU Yanjun (Lead)"
-  role: leading
+  pi: "MA Xiaojuan (Lead); Team members: LYU Yanjun, ZHAO Yuhua, Hongshan"
+  role: participating
   years: "2026 -"
-  desc: "Led the project team in designing and developing an interactive AR/AI restaurant chatbot system that combines augmented reality and artificial intelligence to improve the multi-person ordering experience."
+  desc: "Led the design and development of an interactive AR/AI restaurant chatbot system that combines augmented reality and artificial intelligence to improve the multi-person ordering experience."
   logos:
-    - "logo-hkust.png"
+    - "logo-hkust (1).png"
 
 - title: "WaterSIMmersive"
   title_zh: "WaterSIMmersive 水资源具身沉浸式学习游戏"
@@ -35,13 +35,13 @@
   years: "2023 - 2028"
   desc: "Designed and developed the WaterSIMmersive embodied game, which helps children learn complex scientific processes such as the geographic distribution of water resources, groundwater formation, and evaporation, while encouraging collaboration and social interaction among children to support healthy social-emotional development."
   logos:
-    - "logo-asu.png"
+    - "logo-asu (1).png"
     - "logo-nsf.png"
 
 - title: "Spatial Media and the Jingdezhen Museum"
   title_zh: "空间媒介与景德镇博物馆建设"
   team: "Project Team (Tsinghua University, The Future Lab)"
-  pi: "LYU Yanjun (Team Lead）; Team members: 王骁夏, 兰景贻, 刘硕, 温琅"
+  pi: "唐克扬(Team Lead）; Team members: 吕彦君，王骁夏, 兰景贻, 刘硕, 温琅"
   role: leading
   years: "2026 -"
   desc: "Led a team responsible for the spatial design of selected exhibition areas of the Jingdezhen Museum, in collaboration with The Future Lab, Tsinghua University."
