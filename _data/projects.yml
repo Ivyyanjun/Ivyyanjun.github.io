@@ -1,26 +1,49 @@
 # Projects page data. Newest first.
 # Fields:
-#   title:     English title (required)
-#   title_zh:  Chinese title (optional)
-#   funder:    funding body, e.g. "NSFC - Young Scientists Fund" (optional)
-#   funder_link: URL for the funder (optional)
-#   team:      e.g. "Project Team (CAFA)" (optional)
-#   pi:        e.g. "LYU Yanjun (Lead)" (optional)
-#   role:      leading  OR  participating   (required, lowercase)
-#   years:     e.g. "2026 -" or "2022 - 2025" (optional)
+#   title:       English title (required)
+#   title_zh:    Chinese title (optional)
+#   funder:      funding body (optional)
+#   funder_link: URL for the funder / award page (optional)
+#   award:       award number (optional)
+#   amount:      funding amount (optional)
+#   team:        e.g. "Project Team (ASU)" (optional)
+#   pi:          e.g. "LYU Yanjun (Lead)" or your role (optional)
+#   role:        leading  OR  participating   (required, lowercase)
+#   years:       e.g. "2026 -" or "2022 - 2025" (optional)
+#   desc:        short description (optional)
+#   logos:       list of image files in /images/ (optional)
 
-- title: "Example Leading Project Title (replace me)"
-  title_zh: "示例项目中文名称（请替换）"
-  funder: "Funding Agency Name"
-  team: "Project Team (CAFA)"
+- title: "Conversational Chatbot Design for Hong Kong Restaurants"
+  title_zh: "香港餐厅对话式 Chatbot 设计"
+  team: "Project Team (HKUST)"
   pi: "LYU Yanjun (Lead)"
   role: leading
   years: "2026 -"
+  desc: "Led the project team in designing and developing an interactive AR/AI restaurant chatbot system that combines augmented reality and artificial intelligence to improve the multi-person ordering experience."
+  logos:
+    - "logo-hkust.png"
 
-- title: "Example Participating Project Title (replace me)"
-  title_zh: "示例参与项目中文名称（请替换）"
-  funder: "Funding Agency Name"
-  team: "Project Team (HKUST)"
-  pi: "MA Xiaojuan (Lead)"
+- title: "Spatial Media and the Jingdezhen Museum"
+  title_zh: "空间媒介与景德镇博物馆建设"
+  team: "Project Team (Tsinghua University, The Future Lab)"
+  pi: "LYU Yanjun (Team Lead, Spatial Design)"
   role: participating
-  years: "2024 - 2026"
+  years: "2026 -"
+  desc: "Led a team responsible for the spatial design of selected exhibition areas of the Jingdezhen Museum, in collaboration with The Future Lab, Tsinghua University."
+  logos:
+    - "logo-tsinghua.png"
+
+- title: "WaterSIMmersive"
+  title_zh: "WaterSIMmersive 水资源具身沉浸式学习游戏"
+  funder: "U.S. National Science Foundation (NSF)"
+  funder_link: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2314259"
+  award: "2314259"
+  amount: "$1,997,807"
+  team: "Project Team (Arizona State University)"
+  pi: "LYU Yanjun (Designer & Developer of the embodied game)"
+  role: participating
+  years: "2023 - 2028"
+  desc: "Designed and developed the WaterSIMmersive embodied game, which helps children learn complex scientific processes such as the geographic distribution of water resources, groundwater formation, and evaporation, while encouraging collaboration and social interaction among children to support healthy social-emotional development."
+  logos:
+    - "logo-asu.png"
+    - "logo-nsf.png"
