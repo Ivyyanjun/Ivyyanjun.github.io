@@ -11,7 +11,7 @@ author_profile: true
 
 <div class="proj">
   <div class="proj__meta">
-    <span>From January 2024 to December 2026</span>
+    <span>From 2023 to Present</span>
     <span class="proj__asof">(As of October 2026)</span>
   </div>
   <div class="proj__tabs" role="tablist">
@@ -27,10 +27,15 @@ author_profile: true
         <div class="proj__title">{{ p.title }}</div>
         {% if p.title_zh %}<div class="proj__title">{{ p.title_zh }}</div>{% endif %}
         {% if p.funder %}<div class="proj__funder">{% if p.funder_link %}<a href="{{ p.funder_link }}">{{ p.funder }}</a>{% else %}{{ p.funder }}{% endif %}</div>{% endif %}
+        {% if p.award or p.amount %}<div class="proj__team">{% if p.award %}<span>Award #: {{ p.award }}</span>{% endif %}{% if p.amount %}<span>Amount: {{ p.amount }}</span>{% endif %}</div>{% endif %}
         {% if p.team or p.pi %}<div class="proj__team"><span>{{ p.team }}</span><span>{{ p.pi }}</span></div>{% endif %}
         {% if p.years %}<div class="proj__years">{{ p.years }}</div>{% endif %}
+        {% if p.desc %}<div class="proj__desc">{{ p.desc }}</div>{% endif %}
       </div>
-      <span class="proj__badge proj__badge--{{ p.role }}">{% if p.role == "leading" %}Leading{% else %}Participating{% endif %}</span>
+      <div class="proj__side">
+        <span class="proj__badge proj__badge--{{ p.role }}">{% if p.role == "leading" %}Leading{% else %}Participating{% endif %}</span>
+        {% if p.logos %}<div class="proj__logos">{% for logo in p.logos %}<img src="{{ logo | prepend: '/images/' | relative_url }}" alt="" onerror="this.remove()">{% endfor %}</div>{% endif %}
+      </div>
     </li>
     {%- endfor %}
   </ul>
@@ -54,7 +59,13 @@ author_profile: true
 .proj__funder, .proj__funder a { color: #1f9cad; text-decoration: none; }
 .proj__team { display: flex; flex-wrap: wrap; gap: 0.3em 3em; font-size: 0.8em; margin: 0.3em 0; }
 .proj__years { color: #22a33a; }
-.proj__badge { align-self: flex-start; font-size: 0.72em; font-weight: 600; color: #fff; padding: 0.15em 0.5em; border-radius: 3px; white-space: nowrap; }
+.proj__side { display: flex; flex-direction: column; align-items: flex-end; gap: 0.6em; flex-shrink: 0; }
+.proj__logos { display: flex; align-items: center; gap: 0.6em; background: #fff; padding: 0.4em 0.6em; border-radius: 4px; }
+.proj__logos:empty { display: none; }
+.proj__logos img { height: 44px; width: auto; display: block; }
+.proj__desc { font-size: 0.85em; line-height: 1.55; margin-top: 0.4em; color: var(--global-text-color); }
+@media (max-width: 600px) { .proj__item { flex-wrap: wrap; } .proj__side { flex-direction: row; width: 100%; justify-content: space-between; } }
+.proj__badge { align-self: flex-end; font-size: 0.72em; font-weight: 600; color: #fff; padding: 0.15em 0.5em; border-radius: 3px; white-space: nowrap; }
 .proj__badge--leading { background: #22a33a; }
 .proj__badge--participating { background: #6c757d; }
 </style>
