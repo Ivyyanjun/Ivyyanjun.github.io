@@ -63,6 +63,7 @@ author_profile: true
 .proj__logos { display: flex; align-items: center; gap: 0.6em; background: #fff; padding: 0.4em 0.6em; border-radius: 4px; }
 .proj__logos:empty { display: none; }
 .proj__logos img { height: 44px; width: auto; display: block; }
+.proj__logos img[src*="tsinghua"] { height: 72px; }
 .proj__desc { font-size: 0.85em; line-height: 1.55; margin-top: 0.4em; color: var(--global-text-color); }
 @media (max-width: 600px) { .proj__item { flex-wrap: wrap; } .proj__side { flex-direction: row; width: 100%; justify-content: space-between; } }
 .proj__badge { align-self: flex-end; font-size: 0.72em; font-weight: 600; color: #fff; padding: 0.15em 0.5em; border-radius: 3px; white-space: nowrap; }
