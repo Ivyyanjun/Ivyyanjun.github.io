@@ -401,6 +401,17 @@
   }
 }
 
+/* 头像：竖向椭圆形 */
+@media (min-width: 1024px) {
+  .sidebar .author__avatar img {
+    width: 170px;
+    height: 230px;
+    max-width: 100%;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+  }
+}
 
 
 
