@@ -13,6 +13,17 @@
 #   desc:        short description (optional)
 #   logos:       list of image files in /images/ (optional)
 
+- title: "Interpretable AI Aesthetics: Empowering Artists to Shape AI through Human-AI Co-Creation"
+  title_zh: "可解释的 AI 美学：人与 AI 共创中艺术家对 AI 美学的主动塑造"
+  team: "Project Team （CAFA）"
+  funder: "Central Academy of Fine Arts (CAFA)"
+  pi: "LYU Yanjun"
+  role: leading
+  recruiting: "Students interested in (Chinese-style) AI aesthetics, especially those skilled in computer vision or cognitive psychology, are warmly welcome to design with us! 欢迎对 AI 美学和中国式 AI 美学感兴趣、擅长计算机视觉或认知心理学的同学加入，一起设计！"
+  role: leading
+  years: "2026.11 - (Just Launched)"
+  desc: "Treats AI aesthetics as an emerging aesthetic form. By training models to learn aesthetic paradigms, the project makes the aesthetic dimensions learned by AI interpretable, and develops human-AI co-creation tools that empower artists to actively shape AI aesthetics, rather than be shaped by them."
+
 - title: "AI-Empowered Mental Well-being Support for University Students"
   title_zh: "AI 赋能下的大学生心理健康研究"
   funder: "Central Academy of Fine Arts (CAFA)"
