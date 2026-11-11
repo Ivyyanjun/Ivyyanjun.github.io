@@ -13,15 +13,16 @@
 #   desc:        short description (optional)
 #   logos:       list of image files in /images/ (optional)
 
-- title: "Conversational Chatbot Design for Hong Kong Restaurants"
-  title_zh: "香港餐厅对话式 Chatbot 设计"
-  team: "Project Team (HKUST)"
-  pi: "MA Xiaojuan (Lead); Team members: LYU Yanjun, ZHAO Yuhua, Hongshan"
-  role: participating
-  years: "2026 -"
-  desc: "Led the design and development of an interactive AR/AI restaurant chatbot system that combines augmented reality and artificial intelligence to improve the multi-person ordering experience."
+- title: "AI-Empowered Mental Well-being Support for University Students"
+  title_zh: "AI 赋能下的大学生心理健康研究"
+  funder: "Central Academy of Fine Arts (CAFA)"
+  team: "Project Team (CAFA & HKUST)"
+  pi: "LYU Yanjun (Lead), LYU Hanfang (Co-Lead); Team members: Open positions — CAFA and HKUST students are welcome to join us!"
+  role: leading
+  years: "2026.11 - 2027.11"
+  desc: "Explores how artificial intelligence can be leveraged to understand and support the mental well-being of university students, designing human-centered AI tools that promote emotional awareness, self-regulation, and timely access to support."
   logos:
-    - "logo-hkust (1).png"
+    - "logo-cafa.png"
 
 - title: "WaterSIMmersive"
   title_zh: "WaterSIMmersive 水资源具身沉浸式学习游戏"
@@ -47,3 +48,13 @@
   desc: "Led a team responsible for the spatial design of selected exhibition areas of the Jingdezhen Museum, in collaboration with The Future Lab, Tsinghua University."
   logos:
     - "logo-tsinghua.png"
+
+- title: "Conversational Chatbot Design for Hong Kong Restaurants"
+  title_zh: "香港餐厅对话式 Chatbot 设计"
+  team: "Project Team (HKUST)"
+  pi: "MA Xiaojuan (Lead); Team members: LYU Yanjun, ZHAO Yuhua, Hongshan"
+  role: leading
+  years: "2026 -"
+  desc: "Led the design and development of an interactive AR/AI restaurant chatbot system that combines augmented reality and artificial intelligence to improve the multi-person ordering experience."
+  logos:
+    - "logo-hkust (1).png"
